@@ -1,0 +1,241 @@
+﻿customer_id,customer_name,country,city,segment,email,signup_date
+1,Paula Paredes,Perú,Trujillo,Corporativo,Paula.Paredes1@Correo.Com,20/08/2023 00:00
+2,Andrea Navarro,Colombia,Bogotá,Corporativo,Andrea.Navarro2@Correo.Com,28/01/2025 00:00
+3,Lucía López,México,Guadalajara,Online,Lucia.Lopez3@Correo.Com,31/03/2022 00:00
+4,Manuel  González,Perú,Trujillo,Pyme,Manuel.Gonzalez4@Correo.Com,18/03/2023 00:00
+5,Daniela González,Colombia,Medellín,Corporativo,Daniela.Gonzalez5@Correo.Com,
+6,Andrea  Rojas,México,Guadalajara,Online,Andrea.Rojas6@Correo.Com,05/08/2024 00:00
+7,Gabriela Delgado,Colombia,Barranquilla,Pyme,Gabriela.Delgado7@Correo.Com,13/02/2022 00:00
+8,Ana Rodríguez,Colombia,Bogotá,Pyme,Ana.Rodriguez8@Correo.Com,10/02/2023 00:00
+9,Fernanda Romero,México,Ciudad De México,Retail,Fernanda.Romero9@Correo.Com,28/06/2024 00:00
+10,Patricia Sánchez,México,Guadalajara,Retail,Patricia.Sanchez10@Correo.Com,14/06/2024 00:00
+11,Héctor Gómez,Colombia,Medellín,Retail,Hector.Gomez11@Correo.Com,26/01/2023 00:00
+12,Luis Paredes,México,Guadalajara,Online,Luis.Paredes12@Correo.Com,29/07/2023 00:00
+13,Manuel Ortiz,México,Puebla,Corporativo,Manuel.Ortiz13@Correo.Com,
+14,Sofía Martínez,Perú,Piura,Online,Sofia.Martinez14@Correo.Com,23/06/2024 00:00
+15,Daniela Vega,Colombia,Cartagena,Corporativo,Daniela.Vega15@Correo.Com,11/04/2023 00:00
+16,Lucía  Romero,México,Guadalajara,Corporativo,Lucia.Romero16@Correo.Com,11/05/2022 00:00
+17,Pedro  Pérez,México,Mérida,Online,Pedro.Perez17@Correo.Com,08/07/2022 00:00
+18,Valeria Ramírez,Perú,Cusco,Pyme,Valeria.Ramirez18@Correo.Com,09/10/2023 00:00
+19,Valeria Sánchez,Colombia,Barranquilla,Retail,Valeria.Sanchez19@Correo.Com,02/09/2022 00:00
+20,Paula Salinas,Perú,Trujillo,Retail,Paula.Salinas20@Correo.Com,22/11/2023 00:00
+21,Fernando Navarro,Colombia,Barranquilla,Online,Fernando.Navarro21@Correo.Com,
+22,Héctor Mendoza,Perú,Arequipa,Retail,Hector.Mendoza22@Correo.Com,08/11/2024 00:00
+23,Daniela Fuentes,México,Ciudad De México,Retail,Daniela.Fuentes23@Correo.Com,03/01/2025 00:00
+24,Fernanda Ramírez,Colombia,Medellín,Retail,Fernanda.Ramirez24@Correo.Com,04/02/2025 00:00
+25,Ana López,Perú,Cusco,Retail,Ana.Lopez25@Correo.Com,09/03/2022 00:00
+26,Héctor  Romero,México,Ciudad De México,Corporativo,Hector.Romero26@Correo.Com,
+27,Fernanda Navarro,Colombia,Medellín,Pyme,Fernanda.Navarro27@Correo.Com,08/02/2022 00:00
+28,Carolina  Cabrera,Perú,Cusco,Retail,Carolina.Cabrera28@Correo.Com,
+29,Juan Mendoza,Colombia,Barranquilla,Pyme,Juan.Mendoza29@Correo.Com,21/09/2024 00:00
+30,Juan Aguilar,Perú,Cusco,Online,Juan.Aguilar30@Correo.Com,
+31,Valeria Sánchez,México,Ciudad De México,Online,Valeria.Sanchez31@Correo.Com,
+32,Carolina Aguilar,Colombia,Cali,Online,Carolina.Aguilar32@Correo.Com,07/10/2024 00:00
+33,Natalia Navarro,México,Ciudad De México,Pyme,Natalia.Navarro33@Correo.Com,09/03/2022 00:00
+34,Sofía Herrera,México,Monterrey,Retail,Sofia.Herrera34@Correo.Com,06/10/2024 00:00
+35,Víctor  López,Colombia,Barranquilla,Online,Victor.Lopez35@Correo.Com,05/12/2022 00:00
+36,Pedro Martínez,México,Mérida,Pyme,Pedro.Martinez36@Correo.Com,18/10/2024 00:00
+37,Pedro Martínez,México,Monterrey,Online,Pedro.Martinez37@Correo.Com,24/10/2022 00:00
+38,Miguel Romero,Colombia,Cali,Pyme,Miguel.Romero38@Correo.Com,21/02/2022 00:00
+39,Héctor Romero,México,Puebla,Retail,Hector.Romero39@Correo.Com,25/09/2023 00:00
+40,Miguel Guerrero,México,Puebla,Online,Miguel.Guerrero40@Correo.Com,03/04/2024 00:00
+41,Miguel Vega,Perú,Cusco,Pyme,Miguel.Vega41@Correo.Com,26/03/2025 00:00
+42,Héctor Aguilar,México,Monterrey,Online,Hector.Aguilar42@Correo.Com,08/10/2024 00:00
+43,Pedro Romero,Colombia,Barranquilla,Corporativo,Pedro.Romero43@Correo.Com,27/04/2024 00:00
+44,Ricardo  Rojas,Colombia,Bogotá,Corporativo,Ricardo.Rojas44@Correo.Com,25/02/2023 00:00
+45,Juan  Díaz,Colombia,Cartagena,Online,Juan.Diaz45@Correo.Com,16/04/2024 00:00
+46,José Aguilar,Colombia,Bogotá,Online,Jose.Aguilar46@Correo.Com,18/03/2023 00:00
+47,Víctor Mendoza,Perú,Trujillo,Online,Victor.Mendoza47@Correo.Com,04/03/2024 00:00
+48,Víctor Castro,Perú,Cusco,Pyme,Victor.Castro48@Correo.Com,
+49,Patricia Salinas,Colombia,Barranquilla,Corporativo,Patricia.Salinas49@Correo.Com,28/01/2024 00:00
+50,Carlos Gómez,Perú,Cusco,Retail,Carlos.Gomez50@Correo.Com,05/07/2022 00:00
+51,Valeria González,Colombia,Bogotá,Pyme,Valeria.Gonzalez51@Correo.Com,
+52,Paula Romero,México,Mérida,Retail,Paula.Romero52@Correo.Com,10/08/2022 00:00
+53,Gabriela Navarro,Colombia,Cartagena,Online,Gabriela.Navarro53@Correo.Com,01/03/2025 00:00
+54,Valeria Gómez,México,Monterrey,Corporativo,Valeria.Gomez54@Correo.Com,25/03/2025 00:00
+55,Daniela Castro,México,Puebla,Corporativo,Daniela.Castro55@Correo.Com,12/08/2024 00:00
+56,Juan Aguilar,México,Mérida,Online,Juan.Aguilar56@Correo.Com,25/01/2023 00:00
+57,Andrés Cabrera,México,Monterrey,Online,Andres.Cabrera57@Correo.Com,26/09/2024 00:00
+58,Sofía López,Perú,Trujillo,Pyme,Sofia.Lopez58@Correo.Com,03/05/2023 00:00
+59,Ana Ortiz,México,Monterrey,Retail,Ana.Ortiz59@Correo.Com,29/12/2023 00:00
+60,Sofía López,México,Ciudad De México,Pyme,Sofia.Lopez60@Correo.Com,
+61,Gabriela Salinas,Colombia,Cali,Pyme,Gabriela.Salinas61@Correo.Com,27/06/2024 00:00
+62,Andrea Sánchez,Perú,Arequipa,Corporativo,Andrea.Sanchez62@Correo.Com,12/09/2022 00:00
+63,Manuel Martínez,Perú,Trujillo,Corporativo,Manuel.Martinez63@Correo.Com,31/07/2024 00:00
+64,Valeria Rodríguez,Perú,Cusco,Retail,,29/01/2022 00:00
+65,Ricardo González,México,Puebla,Retail,Ricardo.Gonzalez65@Correo.Com,21/09/2023 00:00
+66,Andrea Rodríguez,Perú,Trujillo,Retail,Andrea.Rodriguez66@Correo.Com,21/07/2024 00:00
+67,Jorge Ramírez,Perú,Arequipa,Online,Jorge.Ramirez67@Correo.Com,27/04/2023 00:00
+68,Rosa Fuentes,México,Monterrey,Retail,Rosa.Fuentes68@Correo.Com,
+69,Juan Martínez,Perú,Arequipa,Corporativo,Juan.Martinez69@Correo.Com,13/08/2024 00:00
+70,Camila Sánchez,Perú,Trujillo,Online,Camila.Sanchez70@Correo.Com,29/01/2024 00:00
+71,Ana Guerrero,Perú,Lima,Pyme,Ana.Guerrero71@Correo.Com,08/12/2022 00:00
+72,Camila López,Colombia,Barranquilla,Retail,Camila.Lopez72@Correo.Com,29/06/2024 00:00
+73,Jorge  Rojas,Perú,Lima,Pyme,Jorge.Rojas73@Correo.Com,03/08/2023 00:00
+74,Sofía Ortiz,Colombia,Bogotá,Online,Sofia.Ortiz74@Correo.Com,03/09/2025 00:00
+75,Paula Ortiz,Colombia,Cartagena,Pyme,Paula.Ortiz75@Correo.Com,03/03/2022 00:00
+76,Ana Campos,Colombia,Barranquilla,Pyme,Ana.Campos76@Correo.Com,
+77,Carolina Torres,Perú,Lima,Online,Carolina.Torres77@Correo.Com,
+78,Camila Vargas,Colombia,Bogotá,Retail,Camila.Vargas78@Correo.Com,18/04/2023 00:00
+79,Víctor  Castro,Colombia,Bogotá,Online,Victor.Castro79@Correo.Com,09/02/2023 00:00
+80,Luis  Rojas,Colombia,Cartagena,Corporativo,Luis.Rojas80@Correo.Com,
+81,José Salinas,México,Puebla,Corporativo,Jose.Salinas81@Correo.Com,25/02/2022 00:00
+82,Gabriela Rodríguez,México,Guadalajara,Retail,Gabriela.Rodriguez82@Correo.Com,12/04/2024 00:00
+83,Manuel Castro,Perú,Trujillo,Corporativo,Manuel.Castro83@Correo.Com,11/06/2023 00:00
+84,Óscar Silva,Colombia,Medellín,Pyme,Oscar.Silva84@Correo.Com,
+85,Ana Martínez,Colombia,Cartagena,Online,Ana.Martinez85@Correo.Com,
+86,Ana Torres,Colombia,Bogotá,Corporativo,Ana.Torres86@Correo.Com,13/04/2022 00:00
+87,Daniela Romero,Perú,Lima,Retail,Daniela.Romero87@Correo.Com,15/04/2025 00:00
+88,Lucía  Ortiz,México,Mérida,Retail,Lucia.Ortiz88@Correo.Com,07/07/2022 00:00
+89,Gabriela Torres,México,Ciudad De México,Online,Gabriela.Torres89@Correo.Com,13/11/2022 00:00
+90,Ricardo Ortiz,Colombia,Bogotá,Pyme,Ricardo.Ortiz90@Correo.Com,30/08/2023 00:00
+91,Óscar  González,Perú,Piura,Retail,Oscar.Gonzalez91@Correo.Com,27/07/2023 00:00
+92,Valeria  Silva,Perú,Arequipa,Corporativo,Valeria.Silva92@Correo.Com,12/01/2022 00:00
+93,Fernanda  Navarro,Colombia,Barranquilla,Pyme,Fernanda.Navarro93@Correo.Com,02/11/2025 00:00
+94,Gabriela Romero,Colombia,Medellín,Retail,Gabriela.Romero94@Correo.Com,
+95,Andrés Castro,Perú,Trujillo,Corporativo,Andres.Castro95@Correo.Com,06/01/2024 00:00
+96,Valeria Campos,Colombia,Bogotá,Pyme,Valeria.Campos96@Correo.Com,01/10/2023 00:00
+97,Manuel Sánchez,México,Puebla,Pyme,Manuel.Sanchez97@Correo.Com,11/10/2023 00:00
+98,Fernando Aguilar,Perú,Piura,Corporativo,Fernando.Aguilar98@Correo.Com,21/06/2024 00:00
+99,Manuel Herrera,México,Ciudad De México,Corporativo,Manuel.Herrera99@Correo.Com,29/01/2023 00:00
+100,Valeria  Salinas,México,Ciudad De México,Retail,Valeria.Salinas100@Correo.Com,05/10/2024 00:00
+101,Diego  Ortiz,Perú,Lima,Retail,Diego.Ortiz101@Correo.Com,11/01/2022 00:00
+102,Gabriela Torres,Perú,Trujillo,Online,Gabriela.Torres102@Correo.Com,13/06/2024 00:00
+103,Lucía Mendoza,México,Ciudad De México,Online,Lucia.Mendoza103@Correo.Com,04/08/2022 00:00
+104,Miguel Campos,Perú,Trujillo,Pyme,Miguel.Campos104@Correo.Com,19/10/2022 00:00
+105,Gabriela Ortiz,Perú,Cusco,Pyme,Gabriela.Ortiz105@Correo.Com,20/11/2022 00:00
+106,Diego Fuentes,Colombia,Medellín,Retail,Diego.Fuentes106@Correo.Com,01/04/2022 00:00
+107,Miguel Salinas,Perú,Trujillo,Online,Miguel.Salinas107@Correo.Com,30/03/2024 00:00
+108,Carolina Romero,Colombia,Bogotá,Retail,Carolina.Romero108@Correo.Com,29/07/2023 00:00
+109,Juan Castro,México,Mérida,Corporativo,Juan.Castro109@Correo.Com,
+110,Luis Peralta,Perú,Arequipa,Pyme,Luis.Peralta110@Correo.Com,12/02/2023 00:00
+111,Andrés Paredes,México,Guadalajara,Corporativo,Andres.Paredes111@Correo.Com,09/03/2022 00:00
+112,Juan Peralta,Perú,Cusco,Pyme,Juan.Peralta112@Correo.Com,20/11/2024 00:00
+113,Paula Peralta,Perú,Lima,Corporativo,Paula.Peralta113@Correo.Com,25/06/2023 00:00
+114,Óscar Torres,Colombia,Barranquilla,Online,Oscar.Torres114@Correo.Com,09/04/2023 00:00
+115,Ricardo Delgado,México,Puebla,Pyme,Ricardo.Delgado115@Correo.Com,03/07/2024 00:00
+116,Víctor Vargas,Colombia,Bogotá,Corporativo,Victor.Vargas116@Correo.Com,14/05/2022 00:00
+117,Andrea Gómez,Perú,Lima,Pyme,Andrea.Gomez117@Correo.Com,26/05/2024 00:00
+118,José  Guerrero,México,Puebla,Pyme,Jose.Guerrero118@Correo.Com,13/01/2023 00:00
+119,Ricardo Romero,Perú,Piura,Corporativo,Ricardo.Romero119@Correo.Com,04/06/2022 00:00
+120,Rosa Paredes,Colombia,Cartagena,Retail,Rosa.Paredes120@Correo.Com,02/05/2022 00:00
+121,Valeria Rojas,México,Monterrey,Pyme,Valeria.Rojas121@Correo.Com,17/06/2023 00:00
+122,Ricardo Delgado,Colombia,Medellín,Online,Ricardo.Delgado122@Correo.Com,22/10/2022 00:00
+123,Juan López,Perú,Cusco,Retail,Juan.Lopez123@Correo.Com,13/04/2025 00:00
+124,María Cabrera,Perú,Arequipa,Online,Maria.Cabrera124@Correo.Com,13/12/2022 00:00
+125,Héctor Ortiz,México,Mérida,Corporativo,Hector.Ortiz125@Correo.Com,16/07/2022 00:00
+126,Andrea Romero,Perú,Trujillo,Pyme,Andrea.Romero126@Correo.Com,11/04/2022 00:00
+127,Rosa Ortiz,México,Ciudad De México,Corporativo,Rosa.Ortiz127@Correo.Com,
+128,Fernando Herrera,México,Mérida,Online,Fernando.Herrera128@Correo.Com,03/08/2022 00:00
+129,Carlos Mendoza,México,Monterrey,Retail,Carlos.Mendoza129@Correo.Com,16/09/2024 00:00
+130,Diego  Castro,Colombia,Medellín,Pyme,Diego.Castro130@Correo.Com,24/11/2024 00:00
+131,Fernando Gómez,México,Ciudad De México,Online,Fernando.Gomez131@Correo.Com,02/05/2022 00:00
+132,Luis Fernández,Perú,Cusco,Retail,Luis.Fernandez132@Correo.Com,22/10/2024 00:00
+133,Óscar Peralta,Colombia,Cartagena,Corporativo,Oscar.Peralta133@Correo.Com,17/02/2024 00:00
+134,Camila Fuentes,México,Puebla,Corporativo,Camila.Fuentes134@Correo.Com,10/12/2023 00:00
+135,Héctor Rodríguez,México,Puebla,Pyme,Hector.Rodriguez135@Correo.Com,19/01/2023 00:00
+136,Jorge Cabrera,Perú,Lima,Retail,Jorge.Cabrera136@Correo.Com,
+137,Carlos Castro,Colombia,Bogotá,Pyme,Carlos.Castro137@Correo.Com,14/04/2025 00:00
+138,Carlos González,México,Puebla,Retail,Carlos.Gonzalez138@Correo.Com,24/11/2024 00:00
+139,José Aguilar,Perú,Lima,Pyme,Jose.Aguilar139@Correo.Com,22/01/2025 00:00
+140,Manuel Pérez,México,Monterrey,Corporativo,Manuel.Perez140@Correo.Com,08/02/2025 00:00
+141,Juan Pérez,Colombia,Cartagena,Corporativo,,13/10/2022 00:00
+142,Óscar Castro,Perú,Cusco,Online,Oscar.Castro142@Correo.Com,05/09/2024 00:00
+143,Pedro Díaz,México,Monterrey,Online,Pedro.Diaz143@Correo.Com,23/05/2022 00:00
+144,Lucía  Silva,México,Monterrey,Corporativo,Lucia.Silva144@Correo.Com,12/02/2022 00:00
+145,Sofía Rodríguez,Colombia,Cartagena,Corporativo,Sofia.Rodriguez145@Correo.Com,18/09/2023 00:00
+146,Sofía Mendoza,Colombia,Medellín,Online,Sofia.Mendoza146@Correo.Com,17/07/2023 00:00
+147,Natalia Ramírez,Colombia,Bogotá,Retail,Natalia.Ramirez147@Correo.Com,23/12/2022 00:00
+148,Juan  Vargas,México,Guadalajara,Pyme,Juan.Vargas148@Correo.Com,19/11/2023 00:00
+149,Fernanda Rojas,Perú,Trujillo,Corporativo,Fernanda.Rojas149@Correo.Com,09/07/2024 00:00
+150,Carolina Sánchez,Colombia,Barranquilla,Corporativo,Carolina.Sanchez150@Correo.Com,08/07/2023 00:00
+151,María Martínez,México,Monterrey,Pyme,Maria.Martinez151@Correo.Com,09/10/2023 00:00
+152,Héctor  Cabrera,México,Guadalajara,Pyme,Hector.Cabrera152@Correo.Com,
+153,Gabriela Guerrero,Colombia,Cali,Pyme,Gabriela.Guerrero153@Correo.Com,04/05/2022 00:00
+154,Ana Díaz,México,Monterrey,Pyme,Ana.Diaz154@Correo.Com,26/01/2022 00:00
+155,Héctor Ramírez,México,Mérida,Corporativo,Hector.Ramirez155@Correo.Com,01/10/2024 00:00
+156,Diego  Paredes,México,Mérida,Pyme,Diego.Paredes156@Correo.Com,05/03/2024 00:00
+157,Gabriela Díaz,México,Monterrey,Pyme,Gabriela.Diaz157@Correo.Com,01/01/2022 00:00
+158,Andrés Cabrera,Colombia,Cali,Corporativo,Andres.Cabrera158@Correo.Com,
+159,Lucía Romero,Perú,Lima,Online,Lucia.Romero159@Correo.Com,31/10/2022 00:00
+160,María Paredes,Perú,Piura,Retail,Maria.Paredes160@Correo.Com,26/05/2024 00:00
+161,Manuel Castro,Perú,Cusco,Pyme,Manuel.Castro161@Correo.Com,
+162,María  González,Perú,Lima,Pyme,Maria.Gonzalez162@Correo.Com,04/10/2022 00:00
+163,Andrea Rodríguez,Colombia,Cali,Corporativo,Andrea.Rodriguez163@Correo.Com,23/07/2022 00:00
+164,Ana Vega,Perú,Cusco,Corporativo,Ana.Vega164@Correo.Com,
+165,Natalia Silva,México,Monterrey,Pyme,Natalia.Silva165@Correo.Com,
+166,Gabriela Rojas,Perú,Arequipa,Corporativo,Gabriela.Rojas166@Correo.Com,22/04/2022 00:00
+167,Lucía Ortiz,México,Mérida,Retail,Lucia.Ortiz167@Correo.Com,07/04/2024 00:00
+168,Diego Gómez,Colombia,Cartagena,Corporativo,Diego.Gomez168@Correo.Com,07/02/2023 00:00
+169,Carlos Navarro,México,Ciudad De México,Pyme,Carlos.Navarro169@Correo.Com,24/05/2024 00:00
+170,Camila  Guerrero,México,Monterrey,Pyme,Camila.Guerrero170@Correo.Com,09/05/2022 00:00
+171,Pedro Peralta,Perú,Cusco,Online,Pedro.Peralta171@Correo.Com,13/10/2022 00:00
+172,Carolina Fernández,Perú,Cusco,Online,Carolina.Fernandez172@Correo.Com,23/05/2022 00:00
+173,Daniela Rojas,Colombia,Cali,Pyme,Daniela.Rojas173@Correo.Com,06/02/2022 00:00
+174,Diego Martínez,Perú,Lima,Online,Diego.Martinez174@Correo.Com,15/12/2022 00:00
+175,María  Pérez,Colombia,Bogotá,Online,Maria.Perez175@Correo.Com,22/03/2024 00:00
+176,Juan Aguilar,Perú,Trujillo,Retail,Juan.Aguilar176@Correo.Com,01/11/2024 00:00
+177,Pedro Romero,Colombia,Barranquilla,Retail,Pedro.Romero177@Correo.Com,08/11/2022 00:00
+178,Natalia Aguilar,Perú,Lima,Online,Natalia.Aguilar178@Correo.Com,
+179,Natalia Martínez,Colombia,Barranquilla,Pyme,Natalia.Martinez179@Correo.Com,06/10/2024 00:00
+180,Héctor  Salinas,Colombia,Cali,Retail,Hector.Salinas180@Correo.Com,
+181,Rosa Fernández,Colombia,Bogotá,Pyme,Rosa.Fernandez181@Correo.Com,26/02/2022 00:00
+182,Fernanda Fernández,México,Puebla,Pyme,Fernanda.Fernandez182@Correo.Com,
+183,Valeria Ortiz,Perú,Trujillo,No asignado,Valeria.Ortiz183@Correo.Com,17/09/2023 00:00
+184,Carolina Cabrera,Perú,Cusco,Online,Carolina.Cabrera184@Correo.Com,22/05/2024 00:00
+185,Andrés Castro,México,Guadalajara,Retail,Andres.Castro185@Correo.Com,
+186,Diego  Ortiz,Perú,Lima,Corporativo,Diego.Ortiz186@Correo.Com,11/12/2022 00:00
+187,Fernanda Campos,Colombia,Cartagena,Pyme,Fernanda.Campos187@Correo.Com,19/03/2022 00:00
+188,Fernando Mendoza,Colombia,Cali,Retail,Fernando.Mendoza188@Correo.Com,18/04/2022 00:00
+189,José Castro,México,Ciudad De México,Online,Jose.Castro189@Correo.Com,
+190,Daniela Aguilar,Colombia,Bogotá,Online,Daniela.Aguilar190@Correo.Com,09/08/2022 00:00
+191,Natalia Delgado,México,Ciudad De México,Online,Natalia.Delgado191@Correo.Com,04/02/2022 00:00
+192,Ricardo  Torres,Colombia,Cali,Pyme,Ricardo.Torres192@Correo.Com,22/10/2022 00:00
+193,Sofía  Navarro,México,Mérida,Retail,Sofia.Navarro193@Correo.Com,12/06/2024 00:00
+194,Pedro Rojas,Colombia,Cali,Retail,Pedro.Rojas194@Correo.Com,17/12/2022 00:00
+195,Carlos  Vega,Perú,Cusco,Corporativo,Carlos.Vega195@Correo.Com,26/04/2024 00:00
+196,José Cabrera,Colombia,Cartagena,Pyme,Jose.Cabrera196@Correo.Com,02/09/2024 00:00
+197,Fernando Peralta,Perú,Cusco,Corporativo,Fernando.Peralta197@Correo.Com,
+198,Ana González,Colombia,Cali,Corporativo,Ana.Gonzalez198@Correo.Com,24/08/2023 00:00
+199,Ricardo Ortiz,Perú,Trujillo,Corporativo,Ricardo.Ortiz199@Correo.Com,10/05/2024 00:00
+200,Jorge Ortiz,México,Puebla,Corporativo,Jorge.Ortiz200@Correo.Com,11/05/2022 00:00
+201,Carlos Paredes,Colombia,Barranquilla,Pyme,Carlos.Paredes201@Correo.Com,27/05/2022 00:00
+202,Lucía  Aguilar,México,Guadalajara,Corporativo,Lucia.Aguilar202@Correo.Com,12/11/2023 00:00
+203,Fernando Ortiz,México,Monterrey,Online,Fernando.Ortiz203@Correo.Com,10/11/2023 00:00
+204,Víctor Rodríguez,Colombia,Bogotá,Pyme,Victor.Rodriguez204@Correo.Com,02/08/2023 00:00
+205,Luis  Rojas,Perú,Trujillo,Online,Luis.Rojas205@Correo.Com,20/07/2024 00:00
+206,Luis Rojas,Perú,Arequipa,Pyme,Luis.Rojas206@Correo.Com,
+207,Carolina  Sánchez,México,Ciudad De México,Corporativo,Carolina.Sanchez207@Correo.Com,19/09/2022 00:00
+208,Andrea Ortiz,México,Puebla,Retail,Andrea.Ortiz208@Correo.Com,19/10/2024 00:00
+209,Ricardo Vargas,Perú,Cusco,Pyme,Ricardo.Vargas209@Correo.Com,
+210,Óscar Silva,México,Guadalajara,Corporativo,,27/09/2023 00:00
+211,Jorge Campos,México,Ciudad De México,Online,Jorge.Campos211@Correo.Com,
+212,Juan Aguilar,Perú,Arequipa,Corporativo,Juan.Aguilar212@Correo.Com,04/03/2025 00:00
+213,Patricia Herrera,Colombia,Bogotá,Online,Patricia.Herrera213@Correo.Com,18/03/2025 00:00
+214,Rosa Herrera,Colombia,Bogotá,Pyme,Rosa.Herrera214@Correo.Com,05/04/2024 00:00
+215,Ricardo  Silva,Colombia,Barranquilla,Corporativo,Ricardo.Silva215@Correo.Com,09/07/2024 00:00
+216,Diego Ramírez,Colombia,Cali,Online,Diego.Ramirez216@Correo.Com,18/12/2024 00:00
+217,Fernando Pérez,México,Guadalajara,Online,Fernando.Perez217@Correo.Com,12/04/2024 00:00
+218,Rosa  López,Colombia,Cartagena,Corporativo,Rosa.Lopez218@Correo.Com,
+219,Fernando Aguilar,Perú,Lima,Retail,Fernando.Aguilar219@Correo.Com,18/03/2024 00:00
+220,Diego Fernández,Colombia,Medellín,Online,Diego.Fernandez220@Correo.Com,18/02/2023 00:00
+221,Patricia Aguilar,México,Puebla,Retail,Patricia.Aguilar221@Correo.Com,05/03/2024 00:00
+222,Diego Rodríguez,Perú,Arequipa,Online,Diego.Rodriguez222@Correo.Com,19/02/2024 00:00
+223,Sofía  Sánchez,México,Puebla,Pyme,Sofia.Sanchez223@Correo.Com,
+224,Andrés Fuentes,Perú,Arequipa,Online,Andres.Fuentes224@Correo.Com,04/10/2022 00:00
+225,Andrea  Mendoza,Perú,Piura,Pyme,Andrea.Mendoza225@Correo.Com,
+226,Fernanda López,Perú,Arequipa,Pyme,Fernanda.Lopez226@Correo.Com,27/11/2023 00:00
+227,Víctor Pérez,Colombia,Bogotá,Online,Victor.Perez227@Correo.Com,09/08/2023 00:00
+228,Miguel Sánchez,Perú,Trujillo,Pyme,Miguel.Sanchez228@Correo.Com,12/01/2022 00:00
+229,Juan Fernández,Colombia,Barranquilla,Pyme,Juan.Fernandez229@Correo.Com,22/01/2023 00:00
+230,Camila  Delgado,Perú,Arequipa,Pyme,Camila.Delgado230@Correo.Com,06/04/2024 00:00
+231,Andrea Vargas,México,Mérida,Pyme,Andrea.Vargas231@Correo.Com,
+232,Camila Guerrero,Perú,Cusco,Retail,Camila.Guerrero232@Correo.Com,19/01/2025 00:00
+233,Manuel Vega,México,Guadalajara,Retail,Manuel.Vega233@Correo.Com,06/08/2023 00:00
+234,Óscar Fuentes,Colombia,Medellín,Retail,Oscar.Fuentes234@Correo.Com,01/06/2022 00:00
+235,Héctor Sánchez,México,Ciudad De México,Pyme,Hector.Sanchez235@Correo.Com,01/10/2024 00:00
+236,Juan Ramírez,Perú,Trujillo,Online,Juan.Ramirez236@Correo.Com,27/04/2024 00:00
+237,Luis  González,México,Monterrey,Corporativo,Luis.Gonzalez237@Correo.Com,06/03/2025 00:00
+238,Gabriela Castro,Colombia,Cali,Retail,Gabriela.Castro238@Correo.Com,08/07/2022 00:00
+239,Fernando  Pérez,México,Ciudad De México,Corporativo,Fernando.Perez239@Correo.Com,
+240,Patricia Silva,Colombia,Bogotá,Retail,Patricia.Silva240@Correo.Com,08/07/2024 00:00

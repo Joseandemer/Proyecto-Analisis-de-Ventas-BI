@@ -1,0 +1,61 @@
+﻿product_id,product_name,category,unit_cost,list_price,active,revision,cuentas
+1,Laptop Dell Inspiron 15,Tecnología,650,920,Activo,Correcto,270
+2,Laptop Lenovo Ideapad,Tecnología,590,8600,Activo,Correcto,8010
+3,Monitor Lg 24,Tecnología,1200,190,Activo,Revisar,-1010
+4,Mouse Logitech M185,Accesorios,80,18,Activo,Revisar,-62
+5,Teclado Redragon Kumara,Accesorios,24,48,Inactivo,Correcto,24
+6,Audífonos Sony Wh-Ch520,Tecnología,320,64,Inactivo,Revisar,-256
+7,Impresora Hp Ink Tank,Tecnología,145,230,Inactivo,Correcto,85
+8,Router Tp-Link Archer C6,Tecnología,280,55,Activo,Revisar,-225
+9,Disco Ssd Kingston 1Tb,Tecnología,48,88,Activo,Correcto,40
+10,Memoria Usb Sandisk 64Gb,Accesorios,6,15,Inactivo,Correcto,9
+11,Silla Ergonómica Ergopro,Muebles,95,165,Activo,Correcto,70
+12,Escritorio Melamina 120Cm,Muebles,700,135,Inactivo,Revisar,-565
+13,Lámpara Led De Escritorio,Hogar,12,29,Activo,Correcto,17
+14,Cafetera Oster 12 Tazas,Hogar,38,72,Inactivo,Correcto,34
+15,Licuadora Philips 2L,Hogar,42,790,Inactivo,Correcto,748
+16,Freidora De Aire 5L,Hogar,58,109,Activo,Correcto,51
+17,Mochila Samsonite Guardit,Accesorios,35,69,Activo,Correcto,34
+18,Zapatillas Adidas Runfalcon,Moda,42,79,Activo,Correcto,37
+19,Casaca Columbia Watertight,Moda,65,1250,Inactivo,Correcto,1185
+20,Polo Nike Dri-Fit,Moda,18,39,Activo,Correcto,21
+21,Samsung Smart Tv 55 21,Tecnología,84.87,120.65,Inactivo,Correcto,35.78
+22,Xiaomi Tablet 10 22,Accesorios,21.29,2948,Inactivo,Correcto,2926.71
+23,Philips Smartwatch 23,Hogar,10262,150.38,Inactivo,Revisar,-10111.62
+24,Oster Webcam Full Hd 24,Muebles,320.15,540.89,Activo,Correcto,220.74
+25,Hp Parlante Bluetooth 25,Moda,15244,249.22,Activo,Revisar,-14994.78
+26,Dell Cargador Usb-C 65W 26,Tecnología,175.49,28324,Activo,Correcto,28148.51
+27,Lenovo Power Bank 20000Mah 27,Accesorios,95.78,150.37,Activo,Correcto,54.59
+28,Logitech Ventilador De Torre 28,Hogar,166.23,232.67,Inactivo,Correcto,66.44
+29,Sony Aspiradora Inalámbrica 29,Muebles,33.17,50.49,Activo,Correcto,17.32
+30,Tp-Link Microondas 25L 30,Moda,92.42,17826,Activo,Correcto,17733.58
+31,Samsung Refrigeradora 300L 31,Tecnología,265.51,508.23,Activo,Correcto,242.72
+32,Xiaomi Juego De Sábanas Queen 32,Accesorios,280.94,463.5,Activo,Correcto,182.56
+33,Philips Set De Ollas 7 Piezas 33,Hogar,377.41,590,Activo,Correcto,212.59
+34,Oster Maleta De Viaje Mediana 34,Muebles,22.72,34.25,Activo,Correcto,11.53
+35,Hp Mochila Ejecutiva 35,Moda,351.92,54811,Activo,Correcto,54459.08
+36,Dell Zapatillas Urbanas 36,Tecnología,94.66,133.93,Activo,Correcto,39.27
+37,Lenovo Casaca Deportiva 37,Accesorios,31.06,56.87,Activo,Correcto,25.81
+38,Logitech Pantalón Jogger 38,Hogar,374.47,555,Inactivo,Correcto,180.53
+39,Sony Camisa Oxford 39,Muebles,176.46,292.01,Activo,Correcto,115.55
+40,Tp-Link Silla Gamer 40,Moda,79.33,121.17,Inactivo,Correcto,41.84
+41,Samsung Smart Tv 55 41,Tecnología,31294,429.53,Inactivo,Revisar,-30864.47
+42,Xiaomi Tablet 10 42,Accesorios,8755,13629,Inactivo,Correcto,4874
+43,Philips Smartwatch 43,Hogar,165.52,236.55,Inactivo,Correcto,71.03
+44,Oster Webcam Full Hd 44,Muebles,320.3,581.63,Activo,Correcto,261.33
+45,Hp Parlante Bluetooth 45,Moda,336.97,608.53,Activo,Correcto,271.56
+46,Dell Cargador Usb-C 65W 46,Tecnología,316.14,522.46,Activo,Correcto,206.32
+47,Lenovo Power Bank 20000Mah 47,Accesorios,303.68,524.1,Inactivo,Correcto,220.42
+48,Logitech Ventilador De Torre 48,Hogar,173.91,246.57,Inactivo,Correcto,72.66
+49,Sony Aspiradora Inalámbrica 49,Muebles,129.09,195.88,Activo,Correcto,66.79
+50,Tp-Link Microondas 25L 50,Moda,122.71,18466,Inactivo,Correcto,18343.29
+51,Samsung Refrigeradora 300L 51,Tecnología,370.43,558.74,Inactivo,Correcto,188.31
+52,Xiaomi Juego De Sábanas Queen 52,Accesorios,391.51,555.44,Inactivo,Correcto,163.93
+53,Philips Set De Ollas 7 Piezas 53,Hogar,103.24,200.65,Activo,Correcto,97.41
+54,Oster Maleta De Viaje Mediana 54,Muebles,32775,551.56,Activo,Revisar,-32223.44
+55,Hp Mochila Ejecutiva 55,Moda,39659,596.16,Inactivo,Revisar,-39062.84
+56,Dell Zapatillas Urbanas 56,Tecnología,39908,554.07,Activo,Revisar,-39353.93
+57,Lenovo Casaca Deportiva 57,Accesorios,38.73,68.78,Activo,Correcto,30.05
+58,Logitech Pantalón Jogger 58,Hogar,159.24,289.87,Activo,Correcto,130.63
+59,Sony Camisa Oxford 59,Muebles,251.4,477.79,Activo,Correcto,226.39
+60,Tp-Link Silla Gamer 60,Moda,202.67,390.04,Activo,Correcto,187.37
