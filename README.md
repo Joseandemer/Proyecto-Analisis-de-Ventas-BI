@@ -1,4 +1,4 @@
-Proyecto Análisis de Ventas BData Analytics
+Proyecto Análisis de Ventas Data Analytics
 
 Proyecto de Data Analytics desarrollado para analizar el rendimiento de ventas mediante un flujo completo de analítica de datos, desde la limpieza y transformación de la información hasta la construcción de un dashboard ejecutivo para la toma de decisiones.
 
